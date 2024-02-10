@@ -5,12 +5,12 @@ const nextConfig = {
       return [
         {
           source: '/playgotchi',
-          destination: 'https://playgotchi.com',
+          destination: 'https://playgotchi.com/',
           permanent: false
         },
         {
           source: '/learn',
-          destination: 'https://x.com/playgotchi',
+          destination: 'https://x.com/playgotchi/',
           permanent: false
         }
       ]
